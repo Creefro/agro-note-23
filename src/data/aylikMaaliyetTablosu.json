@@ -1,0 +1,29 @@
+[
+    {
+        "tarih": "1. Ay",
+        "urun_masraf": "123123",
+        "yakit": "33333",
+        "calisan": "123123",
+        "toplam": "123123",
+        "gelir": "123123",
+        "net": "222222"
+    },
+    {
+        "tarih": "2. Ay",
+        "urun_masraf": "123123",
+        "yakit": "123123",
+        "calisan": "123123",
+        "toplam": "123123",
+        "gelir": "123123",
+        "net": "222222"
+    },
+    {
+        "tarih": "3. Ay",
+        "urun_masraf": "123123",
+        "yakit": "123123",
+        "calisan": "123123",
+        "toplam": "123123",
+        "gelir": "123123",
+        "net": "222222"
+    }
+]

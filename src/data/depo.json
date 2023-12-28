@@ -1,0 +1,44 @@
+[
+    {
+        "id": "ilac_1",
+        "adet": 12,
+        "adı": "Azimut",
+        "giris":{
+            "tarih": "14.12.2023",
+            "adet": 5
+        },
+        "cikis":{
+            "tarih": "14.12.2023",
+            "adet": 10
+        },
+        "qr_path": "src/assets/qr/ilac_1.png"
+    },
+    {
+        "id": "ilac_2",
+        "adet": 12,
+        "adı": "Lamdex",
+        "giris":{
+            "tarih": "10.08.2023",
+            "adet": 7
+        },
+        "cikis":{
+            "tarih": "13.06.2023",
+            "adet": 18
+        },
+        "qr_path": "src/assets/qr/ilac_2.png"
+    },
+    {
+        "id": "ilac_3",
+        "adet": 35,
+        "adı": "Mastercop",
+        "giris":{
+            "tarih": "21.08.2023",
+            "adet": 7
+        },
+        "cikis":{
+            "tarih": "24.07.2023",
+            "adet": 18
+        },
+        "qr_path": "src/assets/qr/ilac_3.png"
+    }
+]

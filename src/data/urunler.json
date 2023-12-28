@@ -1,0 +1,26 @@
+[
+    {
+        "Tarih": "14.03.2023",
+        "A_urunu": "200",
+        "B_urunu": "450",
+        "C_urunu": "860",
+        "D_urunu": "0",
+        "E_urunu": "100"
+    },
+    {
+        "Tarih": "22.03.2023",
+        "A_urunu": "200",
+        "B_urunu": "300",
+        "C_urunu": "860",
+        "D_urunu": "520",
+        "E_urunu": "150"
+    },
+    {
+        "Tarih": "25.03.2023",
+        "A_urunu": "300",
+        "B_urunu": "120",
+        "C_urunu": "500",
+        "D_urunu": "250",
+        "E_urunu": "150"
+    }
+]
